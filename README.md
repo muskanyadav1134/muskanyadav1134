@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muskan Yadav</h1>
-<h3 align="center">I am Computer Science Engineering student passionate about web development, specializing in the MERN stack—[MongoDB, Express.js, React, and Node.js]. Dedicated to crafting seamless user experiences and building robust applications with JavaScript across the full stack and continuously exploring new trends to stay ahead in the dynamic tech landscape.</h3>
+<h1 align="center">Hi there!👋 </h1>
+<h3 align="center">My name is Muskan Yadav, and I am a Computer Science Engineering student with a strong passion for web development, particularly in the MERN stack—[MongoDB, Express.js, React, and Node.js]. I specialize in creating seamless user experiences and building robust applications using JavaScript across the entire stack. I continually explore new trends to remain informed in the ever-evolving tech industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskanyadav1134&label=Profile%20views&color=0e75b6&style=flat" alt="muskanyadav1134" /> </p>
 
