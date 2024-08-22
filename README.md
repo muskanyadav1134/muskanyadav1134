@@ -1,7 +1,9 @@
 <h1 align="center">Hi there!👋 </h1>
-<h3 align="center">My name is Muskan Yadav, and I am a Computer Science Engineering student with a strong passion for web development, particularly in the MERN stack—[MongoDB, Express.js, React, and Node.js]. 
-  
-  Constantly exploring new technologies and frameworks to enhance my skills and to remain informed in the ever-evolving tech industry.</h3>
+<h3 align="center">👋 Hi, I'm Muskan Yadav, a Computer Science Engineering student passionate about crafting impactful web experiences using the MERN stack (MongoDB, Express.js, React, and Node.js). I love diving deep into new technologies, constantly pushing myself to stay ahead in a field where innovation never stops. Whether it's building dynamic applications or solving complex problems, I'm always up for a challenge.
+
+But there’s more to me than code. When I'm not immersed in development, you'll find me behind the camera, pursuing my passion for photography. Capturing stories through my lens is more than just a hobby—it’s a way to see the world from new perspectives, bringing creativity and inspiration to everything I do.
+
+For me, both tech and photography are about finding connections—whether it's through code or an image. I’m always on the lookout for new ways to combine these passions, creating work that’s as functional as it is visually compelling.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskanyadav1134&label=Profile%20views&color=0e75b6&style=flat" alt="muskanyadav1134" /> </p>
 
