@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋 </h1>
-<h3 align="center">👋 Hi, I'm Muskan Yadav, a Computer Science Engineering student passionate about crafting impactful web experiences using the MERN stack (MongoDB, Express.js, React, and Node.js). I love diving deep into new technologies, constantly pushing myself to stay ahead in a field where innovation never stops.
+<h3 align="center"> Hi, I'm Muskan Yadav, a Computer Science Engineering student passionate about crafting impactful web experiences using the MERN stack (MongoDB, Express.js, React, and Node.js). I love diving deep into new technologies, constantly pushing myself to stay ahead in a field where innovation never stops.
   
   Whether it's building dynamic applications or solving complex problems, I'm always up for a challenge.
 
